@@ -9,7 +9,7 @@ Frontend workspace:<br/>
 <br>
 <h1>Quick start<sup>*</sup></h1>
 1. `npm i` - install npm packages (required one time PER PROJECT)<br/>
-3. `gulp` - run default task (development)<br/>
+2. `gulp` - run default task (development)<br/>
 * step 0: must be installed [node] (https://nodejs.org/)  and gulp globally (npm install gulp -g)  - in case if it has not been installed yet - required one time PER MACHINE.<br/>
 <h1>Plugins and custom css/js.</h1>
 * js file ( **convertToWepP.js** ) replaces (**img** ) with (**picture** ) 
